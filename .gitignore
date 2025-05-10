@@ -6,4 +6,4 @@ dist
 SwarmcentsApp.spec
 inno_script.iss
 setup
-utils
+util
